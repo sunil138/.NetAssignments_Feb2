@@ -1,0 +1,8 @@
+C:\Users\ST293YY\source\repos\AbstractionByProtected\AbstractionByProtected\bin\Debug\AbstractionByProtected.exe.config
+C:\Users\ST293YY\source\repos\AbstractionByProtected\AbstractionByProtected\bin\Debug\AbstractionByProtected.exe
+C:\Users\ST293YY\source\repos\AbstractionByProtected\AbstractionByProtected\bin\Debug\AbstractionByProtected.pdb
+C:\Users\ST293YY\source\repos\AbstractionByProtected\AbstractionByProtected\obj\Debug\AbstractionByProtected.csproj.AssemblyReference.cache
+C:\Users\ST293YY\source\repos\AbstractionByProtected\AbstractionByProtected\obj\Debug\AbstractionByProtected.csproj.SuggestedBindingRedirects.cache
+C:\Users\ST293YY\source\repos\AbstractionByProtected\AbstractionByProtected\obj\Debug\AbstractionByProtected.csproj.CoreCompileInputs.cache
+C:\Users\ST293YY\source\repos\AbstractionByProtected\AbstractionByProtected\obj\Debug\AbstractionByProtected.exe
+C:\Users\ST293YY\source\repos\AbstractionByProtected\AbstractionByProtected\obj\Debug\AbstractionByProtected.pdb
